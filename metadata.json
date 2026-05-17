@@ -1,0 +1,8 @@
+{
+  "name": "Get 2 Test - Driving Test Car Hire",
+  "description": "Premium driving test car hire and priority lessons service clone with modern UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
